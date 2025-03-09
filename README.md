@@ -24,7 +24,6 @@ The module uses a finite state machine (FSM) to manage AXI Lite transactions:
 - **Generate Data**: Retrieving data for read operations.
 - **Send Write/Read Response**: Sending response signals.
 
-## Usage
 ### Simulation
 To simulate this module, connect it to an AXI Lite master in a testbench. You can use the `axi_if` interface for testing.
 
