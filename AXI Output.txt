@@ -1,0 +1,61 @@
+-----------------[DRV] : RESET DONE-----------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 2 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 2 
+[MON] : OP : 1 awaddr : 1 wdata : 2 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 2 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :2
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 7 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 2 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 2 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 2 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 2 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 2 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 11 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 11 
+[MON] : OP : 1 awaddr : 1 wdata : 11 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 11 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :11
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 4 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 11 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 11 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 0 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 0 
+[MON] : OP : 1 awaddr : 1 wdata : 0 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 0 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :0
+----------------------------------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 11 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 11 
+[MON] : OP : 1 awaddr : 1 wdata : 11 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 11 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :11
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 5 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 11 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 11 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 4 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 4 
+[MON] : OP : 1 awaddr : 1 wdata : 4 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 4 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :4
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 10 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 4 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 4 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
