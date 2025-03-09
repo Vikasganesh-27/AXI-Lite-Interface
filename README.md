@@ -37,7 +37,6 @@ This module can be integrated into a larger FPGA or SoC design as a memory-mappe
 - **Driver & Monitor**: Implements AXI-Lite read/write operations and observes transactions.
 - **Scoreboard**: Compares expected and actual results to validate correctness.
 - **Mailbox-based Communication**: Ensures synchronization between components.
-   ```
 
 ## Files
 - `tb.sv` - Testbench top module
