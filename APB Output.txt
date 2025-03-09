@@ -1,0 +1,123 @@
+# KERNEL: [DRV] : RESET DONE
+# KERNEL: ----------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:0  pwdata:172 pwrite:1  prdata:0 pslverr:0 @ 90
+# KERNEL: [DRV] :  paddr:0  pwdata:172 pwrite:1  prdata:0 pslverr:0 @ 150
+# KERNEL: [MON] :  paddr:0  pwdata:172 pwrite:1  prdata:0 pslverr:0 @ 170
+# KERNEL: [SCO] :  paddr:0  pwdata:172 pwrite:1  prdata:0 pslverr:0 @ 170
+# KERNEL: [SCO] : DATA STORED DATA : 172 ADDR: 0
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:15  pwdata:226 pwrite:0  prdata:0 pslverr:0 @ 170
+# KERNEL: [DRV] :  paddr:15  pwdata:226 pwrite:0  prdata:0 pslverr:0 @ 230
+# KERNEL: [MON] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 250
+# KERNEL: [SCO] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 250
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:11  pwdata:93 pwrite:0  prdata:0 pslverr:0 @ 250
+# KERNEL: [DRV] :  paddr:11  pwdata:93 pwrite:0  prdata:0 pslverr:0 @ 310
+# KERNEL: [MON] :  paddr:11  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 330
+# KERNEL: [SCO] :  paddr:11  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 330
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:10  pwdata:35 pwrite:1  prdata:0 pslverr:0 @ 330
+# KERNEL: [DRV] :  paddr:10  pwdata:35 pwrite:1  prdata:0 pslverr:0 @ 390
+# KERNEL: [MON] :  paddr:10  pwdata:35 pwrite:1  prdata:0 pslverr:0 @ 410
+# KERNEL: [SCO] :  paddr:10  pwdata:35 pwrite:1  prdata:0 pslverr:0 @ 410
+# KERNEL: [SCO] : DATA STORED DATA : 35 ADDR: 10
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:13  pwdata:63 pwrite:0  prdata:0 pslverr:0 @ 410
+# KERNEL: [DRV] :  paddr:13  pwdata:63 pwrite:0  prdata:0 pslverr:0 @ 470
+# KERNEL: [MON] :  paddr:13  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 490
+# KERNEL: [SCO] :  paddr:13  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 490
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:13  pwdata:89 pwrite:1  prdata:0 pslverr:0 @ 490
+# KERNEL: [DRV] :  paddr:13  pwdata:89 pwrite:1  prdata:0 pslverr:0 @ 550
+# KERNEL: [MON] :  paddr:13  pwdata:89 pwrite:1  prdata:0 pslverr:0 @ 570
+# KERNEL: [SCO] :  paddr:13  pwdata:89 pwrite:1  prdata:0 pslverr:0 @ 570
+# KERNEL: [SCO] : DATA STORED DATA : 89 ADDR: 13
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:11  pwdata:200 pwrite:1  prdata:0 pslverr:0 @ 570
+# KERNEL: [DRV] :  paddr:11  pwdata:200 pwrite:1  prdata:0 pslverr:0 @ 630
+# KERNEL: [MON] :  paddr:11  pwdata:200 pwrite:1  prdata:0 pslverr:0 @ 650
+# KERNEL: [SCO] :  paddr:11  pwdata:200 pwrite:1  prdata:0 pslverr:0 @ 650
+# KERNEL: [SCO] : DATA STORED DATA : 200 ADDR: 11
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:4  pwdata:155 pwrite:0  prdata:0 pslverr:0 @ 650
+# KERNEL: [DRV] :  paddr:4  pwdata:155 pwrite:0  prdata:0 pslverr:0 @ 710
+# KERNEL: [MON] :  paddr:4  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 730
+# KERNEL: [SCO] :  paddr:4  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 730
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:13  pwdata:112 pwrite:0  prdata:0 pslverr:0 @ 730
+# KERNEL: [DRV] :  paddr:13  pwdata:112 pwrite:0  prdata:0 pslverr:0 @ 790
+# KERNEL: [MON] :  paddr:13  pwdata:0 pwrite:0  prdata:89 pslverr:0 @ 810
+# KERNEL: [SCO] :  paddr:13  pwdata:0 pwrite:0  prdata:89 pslverr:0 @ 810
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:2  pwdata:122 pwrite:1  prdata:0 pslverr:0 @ 810
+# KERNEL: [DRV] :  paddr:2  pwdata:122 pwrite:1  prdata:0 pslverr:0 @ 870
+# KERNEL: [MON] :  paddr:2  pwdata:122 pwrite:1  prdata:0 pslverr:0 @ 890
+# KERNEL: [SCO] :  paddr:2  pwdata:122 pwrite:1  prdata:0 pslverr:0 @ 890
+# KERNEL: [SCO] : DATA STORED DATA : 122 ADDR: 2
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:10  pwdata:252 pwrite:0  prdata:0 pslverr:0 @ 890
+# KERNEL: [DRV] :  paddr:10  pwdata:252 pwrite:0  prdata:0 pslverr:0 @ 950
+# KERNEL: [MON] :  paddr:10  pwdata:0 pwrite:0  prdata:35 pslverr:0 @ 970
+# KERNEL: [SCO] :  paddr:10  pwdata:0 pwrite:0  prdata:35 pslverr:0 @ 970
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:11  pwdata:121 pwrite:1  prdata:0 pslverr:0 @ 970
+# KERNEL: [DRV] :  paddr:11  pwdata:121 pwrite:1  prdata:0 pslverr:0 @ 1030
+# KERNEL: [MON] :  paddr:11  pwdata:121 pwrite:1  prdata:0 pslverr:0 @ 1050
+# KERNEL: [SCO] :  paddr:11  pwdata:121 pwrite:1  prdata:0 pslverr:0 @ 1050
+# KERNEL: [SCO] : DATA STORED DATA : 121 ADDR: 11
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:0  pwdata:74 pwrite:0  prdata:0 pslverr:0 @ 1050
+# KERNEL: [DRV] :  paddr:0  pwdata:74 pwrite:0  prdata:0 pslverr:0 @ 1110
+# KERNEL: [MON] :  paddr:0  pwdata:0 pwrite:0  prdata:172 pslverr:0 @ 1130
+# KERNEL: [SCO] :  paddr:0  pwdata:0 pwrite:0  prdata:172 pslverr:0 @ 1130
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:1  pwdata:9 pwrite:1  prdata:0 pslverr:0 @ 1130
+# KERNEL: [DRV] :  paddr:1  pwdata:9 pwrite:1  prdata:0 pslverr:0 @ 1190
+# KERNEL: [MON] :  paddr:1  pwdata:9 pwrite:1  prdata:0 pslverr:0 @ 1210
+# KERNEL: [SCO] :  paddr:1  pwdata:9 pwrite:1  prdata:0 pslverr:0 @ 1210
+# KERNEL: [SCO] : DATA STORED DATA : 9 ADDR: 1
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:6  pwdata:25 pwrite:1  prdata:0 pslverr:0 @ 1210
+# KERNEL: [DRV] :  paddr:6  pwdata:25 pwrite:1  prdata:0 pslverr:0 @ 1270
+# KERNEL: [MON] :  paddr:6  pwdata:25 pwrite:1  prdata:0 pslverr:0 @ 1290
+# KERNEL: [SCO] :  paddr:6  pwdata:25 pwrite:1  prdata:0 pslverr:0 @ 1290
+# KERNEL: [SCO] : DATA STORED DATA : 25 ADDR: 6
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:0  pwdata:22 pwrite:0  prdata:0 pslverr:0 @ 1290
+# KERNEL: [DRV] :  paddr:0  pwdata:22 pwrite:0  prdata:0 pslverr:0 @ 1350
+# KERNEL: [MON] :  paddr:0  pwdata:0 pwrite:0  prdata:172 pslverr:0 @ 1370
+# KERNEL: [SCO] :  paddr:0  pwdata:0 pwrite:0  prdata:172 pslverr:0 @ 1370
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:7  pwdata:73 pwrite:0  prdata:0 pslverr:0 @ 1370
+# KERNEL: [DRV] :  paddr:7  pwdata:73 pwrite:0  prdata:0 pslverr:0 @ 1430
+# KERNEL: [MON] :  paddr:7  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1450
+# KERNEL: [SCO] :  paddr:7  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1450
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:15  pwdata:126 pwrite:1  prdata:0 pslverr:0 @ 1450
+# KERNEL: [DRV] :  paddr:15  pwdata:126 pwrite:1  prdata:0 pslverr:0 @ 1510
+# KERNEL: [MON] :  paddr:15  pwdata:126 pwrite:1  prdata:0 pslverr:0 @ 1530
+# KERNEL: [SCO] :  paddr:15  pwdata:126 pwrite:1  prdata:0 pslverr:0 @ 1530
+# KERNEL: [SCO] : DATA STORED DATA : 126 ADDR: 15
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:6  pwdata:43 pwrite:1  prdata:0 pslverr:0 @ 1530
+# KERNEL: [DRV] :  paddr:6  pwdata:43 pwrite:1  prdata:0 pslverr:0 @ 1590
+# KERNEL: [MON] :  paddr:6  pwdata:43 pwrite:1  prdata:0 pslverr:0 @ 1610
+# KERNEL: [SCO] :  paddr:6  pwdata:43 pwrite:1  prdata:0 pslverr:0 @ 1610
+# KERNEL: [SCO] : DATA STORED DATA : 43 ADDR: 6
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: [GEN] :  paddr:11  pwdata:43 pwrite:0  prdata:0 pslverr:0 @ 1610
+# KERNEL: [DRV] :  paddr:11  pwdata:43 pwrite:0  prdata:0 pslverr:0 @ 1670
+# KERNEL: [MON] :  paddr:11  pwdata:0 pwrite:0  prdata:121 pslverr:0 @ 1690
+# KERNEL: [SCO] :  paddr:11  pwdata:0 pwrite:0  prdata:121 pslverr:0 @ 1690
+# KERNEL: [SCO] : Data Matched
+# KERNEL: ---------------------------------------------------------------------------------------------------
+# KERNEL: ----Total number of Mismatch : 0------
